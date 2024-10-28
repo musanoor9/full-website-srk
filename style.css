@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.hero{
+    background-image: linear-gradient(#c847f1, #380231);
+}
+
+.top-bar {
+    padding: 20px;
+}
+
+.top-bar img{
+    width: 130px;
+}
+
+.top-button{
+    float: right;
+}
+
+.top-button a{
+    margin: 0 8px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    background-color: white;
+    color: #333;
+    text-decoration: none !important;
+    border: 2px solid #fff; 
+}
+
+.login-btn{
+    background: transparent !important;
+    color: white !important;
+}
+
+.top-button a:hover{
+    background: white !important;
+    color: #333 !important;
+}
+
+.hero h1{
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 12%;
+    margin-left: 15%;
+    letter-spacing: 3px;
+}
+
+.hero p{
+    color: white;
+    margin-left: 25%;
+}
+
+.hero.container{
+    margin-top: 13%;
+}
+
+.start-btn{
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    width: 140px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 50px;
+    margin-left: 23%;
+}
+
+.home-img img{
+   width: 40%;
+   min-width: 110px;
+   margin-left: 50%;
+   margin-top: -23%;
+}
+
+.celebrities {
+    padding: 30px 0;
+    background: #efefef;
+}
+
+.celebrities h1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 60px 0;
+    color: #555;
+}
+
+.person-img{
+    height: 400px;
+    margin-right: 10%;
+}
+
+.person-img img{
+    justify-content: center;
+    align-items: center;
+    margin-left: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+.person-details{
+    background: white;
+    margin-left: 15%;
+    margin-top: -6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile {
+   justify-content: center;
+   align-items: center;
+   background-image: linear-gradient(#c847f1, #380231);
+}
+
+.profile h2{
+    color: white;
+    margin-left: 10%;
+}
+
+.profile h5{
+    color: white;
+    margin-left: 10%;
+    
+}
